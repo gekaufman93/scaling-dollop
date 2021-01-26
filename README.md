@@ -1,5 +1,5 @@
 # scaling-dollop
-This is a test
+This is an example repo for learning how to use git
 
 ## Test Header
    
